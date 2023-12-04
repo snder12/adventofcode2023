@@ -1,7 +1,7 @@
 # Advent Of Code 2023
 
 ![Advent of Code Logo](https://adventofcode.com/favicon.png)
-![Advent of Code](https://adventofcode.com/)
+[Advent of Code](https://adventofcode.com/)
 
 Hello there! 👋
 I'm excited to participate in Advent of Code 2023!
